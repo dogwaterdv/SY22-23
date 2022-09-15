@@ -1,9 +1,9 @@
 ﻿Public Class Form1
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Private Sub porscheButton_Click(sender As Object, e As EventArgs) Handles porscheButton.Click
+        displayPictureBox.Image = porschePictureBox.Image
 
-    End Sub
 
-    Private Sub displayPictureBox_Click(sender As Object, e As EventArgs) Handles displayPictureBox.Click
 
+        displayPictureBox.Image = porschePictureBox.Image
     End Sub
 End Class

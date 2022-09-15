@@ -1,0 +1,13 @@
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\bin\Debug\my project.exe.config
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\bin\Debug\my project.exe
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\bin\Debug\my project.pdb
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\bin\Debug\my project.xml
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my project.vbproj.AssemblyReference.cache
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my_project.Form1.resources
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my_project.Resources.resources
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my project.vbproj.GenerateResource.cache
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my project.vbproj.CoreCompileInputs.cache
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my project.exe
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my project.xml
+C:\Users\jtjan489\Documents\SY22-23\VB\my project\my project\obj\Debug\my project.pdb
