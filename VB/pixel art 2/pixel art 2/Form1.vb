@@ -9,8 +9,7 @@ Public Class Form1
         Next
     End Sub
 
-    Private Sub Clear_Click(sender As Object, e As EventArgs) Handles Clear.Click
-        subfill(C)
-        Next
+    Private Sub Clearbutton_Click(sender As Object, e As EventArgs) Handles red.Click
+        Clear()
     End Sub
 End Class

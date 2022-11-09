@@ -1,0 +1,13 @@
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe.config
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.pdb
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.xml
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.vbproj.AssemblyReference.cache
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.Form1.resources
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.Resources.resources
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.vbproj.GenerateResource.cache
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.exe
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.xml
+C:\Users\jtjan489\Documents\SY22-23\VB\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.pdb

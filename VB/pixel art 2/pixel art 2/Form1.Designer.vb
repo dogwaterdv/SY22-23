@@ -119,7 +119,7 @@ Partial Class Form1
         Me.Green = New System.Windows.Forms.Button()
         Me.Purple = New System.Windows.Forms.Button()
         Me.grid = New System.Windows.Forms.Button()
-        Me.Clear = New System.Windows.Forms.Button()
+        Me.ClearButton = New System.Windows.Forms.Button()
         Me.PictureBox91 = New System.Windows.Forms.PictureBox()
         Me.PictureBox92 = New System.Windows.Forms.PictureBox()
         Me.PictureBox93 = New System.Windows.Forms.PictureBox()
@@ -1015,14 +1015,14 @@ Partial Class Form1
         Me.grid.Text = "grid"
         Me.grid.UseVisualStyleBackColor = True
         '
-        'Clear
+        'ClearButton
         '
-        Me.Clear.Location = New System.Drawing.Point(440, 138)
-        Me.Clear.Name = "Clear"
-        Me.Clear.Size = New System.Drawing.Size(75, 23)
-        Me.Clear.TabIndex = 97
-        Me.Clear.Text = "Clear"
-        Me.Clear.UseVisualStyleBackColor = True
+        Me.ClearButton.Location = New System.Drawing.Point(440, 138)
+        Me.ClearButton.Name = "ClearButton"
+        Me.ClearButton.Size = New System.Drawing.Size(75, 23)
+        Me.ClearButton.TabIndex = 97
+        Me.ClearButton.Text = "Clear"
+        Me.ClearButton.UseVisualStyleBackColor = True
         '
         'PictureBox91
         '
@@ -1119,7 +1119,7 @@ Partial Class Form1
         Me.Controls.Add(Me.PictureBox93)
         Me.Controls.Add(Me.PictureBox92)
         Me.Controls.Add(Me.PictureBox91)
-        Me.Controls.Add(Me.Clear)
+        Me.Controls.Add(Me.ClearButton)
         Me.Controls.Add(Me.grid)
         Me.Controls.Add(Me.Purple)
         Me.Controls.Add(Me.Green)
@@ -1420,7 +1420,7 @@ Partial Class Form1
     Friend WithEvents Green As Button
     Friend WithEvents Purple As Button
     Friend WithEvents grid As Button
-    Friend WithEvents Clear As Button
+    Friend WithEvents ClearButton As Button
     Friend WithEvents PictureBox91 As PictureBox
     Friend WithEvents PictureBox92 As PictureBox
     Friend WithEvents PictureBox93 As PictureBox
